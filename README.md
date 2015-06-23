@@ -3,4 +3,4 @@
 # Jupiter
 Big Planet
 
-Hello Jupiter. HI back.
+Hello Jupiter.Jupiter is a gas planet.  Hi  back.
